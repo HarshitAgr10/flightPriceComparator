@@ -30,11 +30,5 @@
             <version>4.25.0</version>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>org.seleniumhq.selenium</groupId>-->
-<!--            <artifactId>selenium-devtools-v129</artifactId>-->
-<!--            <version>4.24.0</version>-->
-<!--        </dependency>-->
-
     </dependencies>
 </project>

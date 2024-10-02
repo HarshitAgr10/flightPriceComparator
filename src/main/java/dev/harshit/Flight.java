@@ -11,6 +11,7 @@ public class Flight {
         this.price = price;
     }
 
+    // Getters
     public String getOperator() {
         return operator;
     }
